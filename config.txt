@@ -1,0 +1,4 @@
+input,nifty500
+ignore_url_hashmap,false
+ignore_scid_hashmap,false
+ad_block,C:\Users\karan\AppData\Local\Google\Chrome\User Data\Default\Extensions\gighmmpiobklfepjocnamgkkbiglidom\5.0.5_0
